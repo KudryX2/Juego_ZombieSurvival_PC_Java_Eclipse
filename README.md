@@ -1,4 +1,4 @@
-# ZombieSurvival_PC_Java_Eclipse
+# Shooter 2D
 Proyecto personal antiguo 
 
 Juego hecho con java y eclipse, licencia GPL , se puede importar en clipse y ejecutar sin problema
